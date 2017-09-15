@@ -25,7 +25,7 @@ Produce 2 output images for each input image, one of which is rotted 5&deg, and 
 
     python main.py ./my_images rot_5 rot_-5
 
-Produce 1 output image for each input image, by first rotating the image by 90&deg; and then transalation it:
+Produce 1 output image for each input image, by first rotating the image by 90&deg; and then translate it:
 
     python main.py ./my_images rot_90, trans_1_4
 
