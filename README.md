@@ -52,4 +52,4 @@ are included in the transform argument
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img style="border: 1px solid grey" src="http://codebox.net/graphics/image_augmentor/macaw__trans20_20.png" alt="Translated Image" width="150" height="150"/>
 <img style="border: 1px solid grey" src="http://codebox.net/graphics/image_augmentor/macaw__trans0_100.png" alt="Translated Image" width="150" height="150"/>
-codebox.net/graphics/image_augmentor/macaw__blur4.0.png" alt="Blurred Image" width="150" height="150"/>
+
